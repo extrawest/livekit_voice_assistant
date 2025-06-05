@@ -99,6 +99,9 @@ python main.py dev
 
 Set up the mobile application:
 
+1. Navigate to flutter/application folder
+2. Create .env file, add your LIVEKIT_SANDBOX_ID=<your-sandbox-id>
+
 ```bash
 # Clone Flutter frontend
 git clone https://github.com/livekit-examples/voice-assistant-flutter
