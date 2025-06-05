@@ -8,7 +8,15 @@
 
 A production-ready voice assistant built with LiveKit for real-time communication and Flutter integration. Features custom Speech-to-Text (STT) and Text-to-Speech (TTS) implementations using local APIs for enhanced privacy and performance.
 
+
+https://github.com/user-attachments/assets/9fc0d506-3bc3-445d-9c8e-6e05bc8c295a
+
+
 ## ✨ Features
+
+Uploading Overview of ExtraWest Company (1).mp4…
+
+
 
 -   **🗣️ Real-time Voice Communication**: Seamless voice interaction with AI assistant
 -   **🏠 Local API Architecture**: Privacy-focused local processing
