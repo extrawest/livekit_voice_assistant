@@ -6,3 +6,6 @@ aiohttp>=3.8.0
 httpx
 numpy
 tavily-python
+
+
+git remote add extrawest https://github.com/extrawest/livekit_voice_assistant.git
