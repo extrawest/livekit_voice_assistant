@@ -9,7 +9,10 @@
 A production-ready voice assistant built with LiveKit for real-time communication and Flutter integration. Features custom Speech-to-Text (STT) and Text-to-Speech (TTS) implementations using local APIs for enhanced privacy and performance.
 
 
-https://github.com/user-attachments/assets/9fc0d506-3bc3-445d-9c8e-6e05bc8c295a
+
+
+https://github.com/user-attachments/assets/6a3274ae-b697-41ca-a0a0-80386a75824b
+
 
 
 ## ✨ Features
