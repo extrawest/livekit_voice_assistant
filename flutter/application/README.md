@@ -16,9 +16,11 @@ First, create a new [Sandbox Token Server](https://cloud.livekit.io/projects/p_m
 
 Then, run the following command to automatically clone this template and connect it to LiveKit Cloud.
 
+
 ```bash
 lk app create --template voice-assistant-flutter --sandbox <token_server_sandbox_id>
 ```
+navigate in application folder, create .env file and add your LIVEKIT_SANDBOX_ID=<your-sandbox-id>
 
 Install dependencies and run the app:
 ```bash
