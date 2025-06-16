@@ -164,3 +164,9 @@ Built-in audio processing for cleaner voice interactions in various environments
 ### Tool Integration
 
 Extensible architecture supporting additional tools like Tavily web search and OpenWeather APIs.
+
+### License
+This project is licensed under the MIT License - see the LICENSE.txt file for details.
+
+Created by Oleksandr Samoilenko
+Extrawest.com, 2025
